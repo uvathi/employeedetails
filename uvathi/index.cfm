@@ -41,7 +41,7 @@
     <form action="insert_emp.cfm" method="post"> 
 <div class="head" >
     <h1>
-            EMPLOYEE APPLICATION
+            EMPLOYEE APPLICATION 3-5-2022
     </h1>
     <div class="center"  style="overflow-x: auto;">
     <table>
