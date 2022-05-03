@@ -39,7 +39,7 @@
         name="uploadForm" enctype="multipart/form-data"> 
 <div class="head" >
     <h1>
-            EMPLOYEE APPLICATION
+            EMPLOYEE APPLICATION FORM
     </h1>
 </div>
 
