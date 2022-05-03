@@ -52,7 +52,7 @@
    
 <div class="head" >
     <h1>
-            EMPLOYEE APPLICATION
+            EMPLOYEE LIST
     </h1>
     <a href="employee.cfm"> <button type="button" onclick="employee.cfm" >ADD RECORD</button> </a>
     <a href="file.cfm"> <button type="button" onclick="file.cfm" >ADD FILE</button> </a>
